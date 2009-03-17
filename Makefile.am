@@ -1,1 +1,4 @@
-SUBDIRS = lib examples
+SUBDIRS = lib
+
+examples:
+# TODO 
